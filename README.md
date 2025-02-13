@@ -1,2 +1,3 @@
 # dio-learning-java
-BR - Repository to store my first project's java
+ES - Repository to store my first project's java
+BR - Repositório para armazenar o código do meu primeiro projeto em Java.
